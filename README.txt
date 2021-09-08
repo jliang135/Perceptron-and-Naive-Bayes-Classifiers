@@ -1,6 +1,3 @@
-John Liang, Rui Kuang
-jl2816, rk847
-CS 440
 
 Run the project by running loader.py
 
